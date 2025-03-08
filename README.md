@@ -10,7 +10,8 @@ A powerful and user-friendly **Image Search Engine** built using modern web tech
 
 
 ## 📸 Screenshot
-![Image Search Engine](screenshot.png)
+![image](https://github.com/user-attachments/assets/4bb48042-00dd-4ed3-b551-a649e960b395)
+
 
 
 ## 🔧 Technologies Used
